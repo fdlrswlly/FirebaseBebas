@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "202255928538",
+    "firebase_url": "https://zeus-project-a5c73-default-rtdb.firebaseio.com",
+    "project_id": "zeus-project-a5c73",
+    "storage_bucket": "zeus-project-a5c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202255928538:android:e3ab655e9941118e7869e3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202255928538-ukvrpifl8otoiu4n8gbtn9qgmmqat4bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5iUnoCFdMxYZxRM56Pyf82zHx5OW59M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202255928538-ukvrpifl8otoiu4n8gbtn9qgmmqat4bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
